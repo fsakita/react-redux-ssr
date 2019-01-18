@@ -1,0 +1,14 @@
+.productList{
+    &__row{
+        &__column{
+            .tyre{
+                max-width: 100%;
+                height: auto;
+            }
+            .price{
+                float: right;
+                margin-bottom: 20px;
+            }
+        }
+    }
+}
